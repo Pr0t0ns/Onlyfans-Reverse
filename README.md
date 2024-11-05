@@ -3,7 +3,9 @@
 📑 Contacts 📑
 
 Selling Recaptcha V2 Enterprise Solver that is working with onlyfans, contact information below if you're interested in purchasing.
-Telegram: @Pr0t0ngo
+
+Telegram: https://t.me/Pr0t0ngo
+
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
 ![image](https://github.com/user-attachments/assets/a47ecf4e-81b3-405d-b818-9fa6ad966dfa)
