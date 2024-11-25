@@ -8,7 +8,7 @@ Telegram: https://t.me/Pr0t0ngo
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
-![image](https://github.com/user-attachments/assets/a47ecf4e-81b3-405d-b818-9fa6ad966dfa)
+![image](https://github.com/user-attachments/assets/649aad8f-e4ab-4c6d-a5a3-f4e5d602e42c)
 
 
 
