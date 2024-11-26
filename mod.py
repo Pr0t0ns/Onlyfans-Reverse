@@ -6,7 +6,7 @@
 #### ##### #####
 def initalize_onlyfans_configuration() -> dict:
     return {
-        "reRtQ": "8Ke5jgRfyw5P3c9CgusudlNj4hYX69R1",  # Sign key
-        "QvSwh": "33007",  # First Sector of Sign 
-        "HrBVl": "674074a9",  # Final Sector of Sign
+        "reRtQ": "zBXW3M6YqSeb1yUimSlUMEt9TyGHeHkl",  # Sign key
+        "QvSwh": "33146",  # First Sector of Sign 
+        "HrBVl": "6744415d",  # Final Sector of Sign
     }
