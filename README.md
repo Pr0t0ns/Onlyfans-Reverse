@@ -2,7 +2,7 @@
 
 📑 Contacts 📑
 
-Telegram: https://t.me/Pr0t0ngo
+Telegram: https://t.me/Pr0t0npro
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
