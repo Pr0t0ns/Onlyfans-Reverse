@@ -12,4 +12,4 @@ Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
 
 ## NOTE ##
-If you're lookinh for a custom Recaptcha V2 Enterprise Solver (no limits) you can contact me. Information is listed above (looking for serious inquires only).
+If you're looking for a custom Recaptcha V2 Enterprise Solver (no limits) you can contact me. Information is listed above (looking for serious inquires only).
