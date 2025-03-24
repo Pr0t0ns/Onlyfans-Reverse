@@ -2,7 +2,7 @@
 Dynamic Onlyfans header solution
 📑 Contacts 📑
 
-Telegram: https://t.me/Pr0t0nwave
+Telegram: https://t.me/autographed
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
